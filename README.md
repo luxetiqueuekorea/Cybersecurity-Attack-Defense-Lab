@@ -144,3 +144,15 @@ All screenshots are available in the `Screenshots/` folder.
 
 All activities were conducted in a controlled virtual lab environment for educational purposes only.
 No real systems were targeted.
+
+---
+
+By: Luxetiqueue Korea
+
+Website: <a href="https://luxetiqueuekorea.com" style="text-decoration: none;">luxetiqueuekorea.com</a><br>
+Instagram: <a href="https://instagram.com/luxetiqueuekorea" style="text-decoration: none;">instagram.com/luxetiqueuekorea</a><br>
+Threads: <a href="https://threads.com/@luxetiqueuekorea" style="text-decoration: none;">threads.com/@luxetiqueuekorea</a><br>
+GitHub: <a href="https://github.com/luxetiqueuekorea" style="text-decoration: none;">github.com/luxetiqueuekorea</a><br>
+LinkedIn: <a href="https://linkedin.com/company/luxetiqueuekorea" style="text-decoration: none;">linkedin.com/company/luxetiqueuekorea</a><br>
+Email: <a href="mailto:info@luxetiqueuekorea.com" style="text-decoration: none;">info@luxetiqueuekorea.com</a><br>
+YouTube: <a href="https://www.youtube.com/@luxetiqueuekorea" style="text-decoration: none;">youtube.com/@luxetiqueuekorea</a>
